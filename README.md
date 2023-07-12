@@ -10,8 +10,4 @@ I am ready to explore the world of endless learning, build innovative projects, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmagwili&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmagwili&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
